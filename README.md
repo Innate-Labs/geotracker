@@ -49,6 +49,18 @@
 
 所有数据存储在本地浏览器，安全可控。**MVP 阶段完全免费**，三分钟即可完成配置，次日即可查看第一份品牌曝光数据报告。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="GeoTracker 首页" width="100%" />
+  <br/>
+  <sub><b>AI 时代品牌可见性监测工具</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
