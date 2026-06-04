@@ -54,7 +54,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="GeoTracker 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="GeoTracker 首页" width="100%" />
   <br/>
   <sub><b>AI 时代品牌可见性监测工具</b></sub>
 </div>
